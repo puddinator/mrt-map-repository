@@ -1,0 +1,1318 @@
+[
+  {
+    "STN_NAME": "JURONG EAST MRT STATION",
+    "STN_NO": "NS1",
+    "Latitude": 1.33315262,
+    "Longitude": 103.7423112,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "BUKIT BATOK MRT STATION",
+    "STN_NO": "NS2",
+    "Latitude": 1.349034109,
+    "Longitude": 103.74959,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "BUKIT GOMBAK MRT STATION",
+    "STN_NO": "NS3",
+    "Latitude": 1.358761857,
+    "Longitude": 103.7519164,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "CHOA CHU KANG MRT STATION",
+    "STN_NO": "NS4",
+    "Latitude": 1.385361693,
+    "Longitude": 103.744367,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "YEW TEE MRT STATION",
+    "STN_NO": "NS5",
+    "Latitude": 1.397535018,
+    "Longitude": 103.7474307,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "KRANJI MRT STATION",
+    "STN_NO": "NS7",
+    "Latitude": 1.425177699,
+    "Longitude": 103.7621874,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "MARSILING MRT STATION",
+    "STN_NO": "NS8",
+    "Latitude": 1.432514421,
+    "Longitude": 103.77409,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "WOODLANDS MRT STATION",
+    "STN_NO": "NS9",
+    "Latitude": 1.436875128,
+    "Longitude": 103.7864999,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "ADMIRALTY MRT STATION",
+    "STN_NO": "NS10",
+    "Latitude": 1.440585001,
+    "Longitude": 103.8009982,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "SEMBAWANG MRT STATION",
+    "STN_NO": "NS11",
+    "Latitude": 1.449050821,
+    "Longitude": 103.8200504,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "CANBERRA MRT STATION",
+    "STN_NO": "NS12",
+    "Latitude": 1.4431,
+    "Longitude": 103.8297,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "YISHUN MRT STATION",
+    "STN_NO": "NS13",
+    "Latitude": 1.429443081,
+    "Longitude": 103.8350045,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "KHATIB MRT STATION",
+    "STN_NO": "NS14",
+    "Latitude": 1.41738337,
+    "Longitude": 103.83298,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "YIO CHU KANG MRT STATION",
+    "STN_NO": "NS15",
+    "Latitude": 1.381756046,
+    "Longitude": 103.8449439,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "ANG MO KIO MRT STATION",
+    "STN_NO": "NS16",
+    "Latitude": 1.369933175,
+    "Longitude": 103.8495535,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "BISHAN MRT STATION",
+    "STN_NO": "NS17",
+    "Latitude": 1.350838988,
+    "Longitude": 103.8481398,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "BRADDELL MRT STATION",
+    "STN_NO": "NS18",
+    "Latitude": 1.340471684,
+    "Longitude": 103.8467942,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "TOA PAYOH MRT STATION",
+    "STN_NO": "NS19",
+    "Latitude": 1.332628987,
+    "Longitude": 103.8474979,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "NOVENA MRT STATION",
+    "STN_NO": "NS20",
+    "Latitude": 1.320440791,
+    "Longitude": 103.8438228,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "NEWTON MRT STATION",
+    "STN_NO": "NS21",
+    "Latitude": 1.3123201,
+    "Longitude": 103.8379841,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "ORCHARD MRT STATION",
+    "STN_NO": "NS22",
+    "Latitude": 1.303981012,
+    "Longitude": 103.8322417,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "SOMERSET MRT STATION",
+    "STN_NO": "NS23",
+    "Latitude": 1.300260055,
+    "Longitude": 103.8390737,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "DHOBY GHAUT MRT STATION",
+    "STN_NO": "NS24",
+    "Latitude": 1.298701307,
+    "Longitude": 103.8461119,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "CITY HALL MRT STATION",
+    "STN_NO": "NS25",
+    "Latitude": 1.292936243,
+    "Longitude": 103.852581,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "RAFFLES PLACE MRT STATION",
+    "STN_NO": "NS26",
+    "Latitude": 1.284125611,
+    "Longitude": 103.8514572,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "MARINA BAY MRT STATION",
+    "STN_NO": "NS27",
+    "Latitude": 1.276427355,
+    "Longitude": 103.8545925,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "MARINA SOUTH PIER MRT STATION",
+    "STN_NO": "NS28",
+    "Latitude": 1.271336711,
+    "Longitude": 103.8628525,
+    "COLOR": "red"
+  },
+  {
+    "STN_NAME": "PASIR RIS MRT STATION",
+    "STN_NO": "EW1",
+    "Latitude": 1.372983774,
+    "Longitude": 103.9492348,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "TAMPINES MRT STATION",
+    "STN_NO": "EW2",
+    "Latitude": 1.353301356,
+    "Longitude": 103.9451175,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "SIMEI MRT STATION",
+    "STN_NO": "EW3",
+    "Latitude": 1.343202895,
+    "Longitude": 103.9533387,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "TANAH MERAH MRT STATION",
+    "STN_NO": "EW4",
+    "Latitude": 1.327187135,
+    "Longitude": 103.9463161,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "BEDOK MRT STATION",
+    "STN_NO": "EW5",
+    "Latitude": 1.323979969,
+    "Longitude": 103.9299587,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "KEMBANGAN MRT STATION",
+    "STN_NO": "EW6",
+    "Latitude": 1.321038249,
+    "Longitude": 103.9129282,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "EUNOS MRT STATION",
+    "STN_NO": "EW7",
+    "Latitude": 1.319778952,
+    "Longitude": 103.9032339,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "PAYA LEBAR MRT STATION",
+    "STN_NO": "EW8",
+    "Latitude": 1.318112082,
+    "Longitude": 103.8930446,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "ALJUNIED MRT STATION",
+    "STN_NO": "EW9",
+    "Latitude": 1.316432612,
+    "Longitude": 103.882893,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "KALLANG MRT STATION",
+    "STN_NO": "EW10",
+    "Latitude": 1.31148891,
+    "Longitude": 103.8713766,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "LAVENDER MRT STATION",
+    "STN_NO": "EW11",
+    "Latitude": 1.30735702,
+    "Longitude": 103.8628215,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "BUGIS MRT STATION",
+    "STN_NO": "EW12",
+    "Latitude": 1.300465076,
+    "Longitude": 103.8557007,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "CITY HALL MRT STATION",
+    "STN_NO": "EW13",
+    "Latitude": 1.292936243,
+    "Longitude": 103.852581,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "RAFFLES PLACE MRT STATION",
+    "STN_NO": "EW14",
+    "Latitude": 1.284125611,
+    "Longitude": 103.8514572,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "TANJONG PAGAR MRT STATION",
+    "STN_NO": "EW15",
+    "Latitude": 1.276521247,
+    "Longitude": 103.8458611,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "OUTRAM PARK MRT STATION",
+    "STN_NO": "EW16",
+    "Latitude": 1.279764543,
+    "Longitude": 103.8395732,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "TIONG BAHRU MRT STATION",
+    "STN_NO": "EW17",
+    "Latitude": 1.286193393,
+    "Longitude": 103.827021,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "REDHILL MRT STATION",
+    "STN_NO": "EW18",
+    "Latitude": 1.289562726,
+    "Longitude": 103.8168209,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "QUEENSTOWN MRT STATION",
+    "STN_NO": "EW19",
+    "Latitude": 1.294860933,
+    "Longitude": 103.8058913,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "COMMONWEALTH MRT STATION",
+    "STN_NO": "EW20",
+    "Latitude": 1.302438735,
+    "Longitude": 103.7983136,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "BUONA VISTA MRT STATION",
+    "STN_NO": "EW21",
+    "Latitude": 1.307183467,
+    "Longitude": 103.7902028,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "DOVER MRT STATION",
+    "STN_NO": "EW22",
+    "Latitude": 1.311405293,
+    "Longitude": 103.7786522,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "CLEMENTI MRT STATION",
+    "STN_NO": "EW23",
+    "Latitude": 1.314954492,
+    "Longitude": 103.7653168,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "JURONG EAST MRT STATION",
+    "STN_NO": "EW24",
+    "Latitude": 1.33315262,
+    "Longitude": 103.7423112,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "CHINESE GARDEN MRT STATION",
+    "STN_NO": "EW25",
+    "Latitude": 1.342352821,
+    "Longitude": 103.7326244,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "LAKESIDE MRT STATION",
+    "STN_NO": "EW26",
+    "Latitude": 1.344259249,
+    "Longitude": 103.7209802,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "BOON LAY MRT STATION",
+    "STN_NO": "EW27",
+    "Latitude": 1.338604054,
+    "Longitude": 103.7060994,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "PIONEER MRT STATION",
+    "STN_NO": "EW28",
+    "Latitude": 1.337586882,
+    "Longitude": 103.6973586,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "JOO KOON MRT STATION",
+    "STN_NO": "EW29",
+    "Latitude": 1.327717173,
+    "Longitude": 103.6784167,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "GUL CIRCLE MRT STATION",
+    "STN_NO": "EW30",
+    "Latitude": 1.319505215,
+    "Longitude": 103.6605988,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "TUAS CRESCENT MRT STATION",
+    "STN_NO": "EW31",
+    "Latitude": 1.321026553,
+    "Longitude": 103.6491245,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "TUAS WEST ROAD MRT STATION",
+    "STN_NO": "EW32",
+    "Latitude": 1.329989089,
+    "Longitude": 103.6396662,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "TUAS LINK MRT STATION",
+    "STN_NO": "EW33",
+    "Latitude": 1.340463766,
+    "Longitude": 103.6369324,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "EXPO MRT STATION",
+    "STN_NO": "CG1",
+    "Latitude": 1.334549778,
+    "Longitude": 103.9615134,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "CHANGI AIRPORT MRT STATION",
+    "STN_NO": "CG2",
+    "Latitude": 1.357314545,
+    "Longitude": 103.9883212,
+    "COLOR": "green"
+  },
+  {
+    "STN_NAME": "HARBOURFRONT MRT STATION",
+    "STN_NO": "NE1",
+    "Latitude": 1.26547264,
+    "Longitude": 103.821446,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "OUTRAM PARK MRT STATION",
+    "STN_NO": "NE3",
+    "Latitude": 1.28140498,
+    "Longitude": 103.839125,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "CHINATOWN MRT STATION",
+    "STN_NO": "NE4",
+    "Latitude": 1.284359578,
+    "Longitude": 103.8434242,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "CLARKE QUAY MRT STATION",
+    "STN_NO": "NE5",
+    "Latitude": 1.288386024,
+    "Longitude": 103.8465519,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "DHOBY GHAUT MRT STATION",
+    "STN_NO": "NE6",
+    "Latitude": 1.299705459,
+    "Longitude": 103.8454851,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "LITTLE INDIA MRT STATION",
+    "STN_NO": "NE7",
+    "Latitude": 1.307198223,
+    "Longitude": 103.8485807,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "FARRER PARK MRT STATION",
+    "STN_NO": "NE8",
+    "Latitude": 1.31235984,
+    "Longitude": 103.8541717,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "BOON KENG MRT STATION",
+    "STN_NO": "NE9",
+    "Latitude": 1.319395706,
+    "Longitude": 103.861679,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "POTONG PASIR MRT STATION",
+    "STN_NO": "NE10",
+    "Latitude": 1.331379525,
+    "Longitude": 103.869046,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "WOODLEIGH MRT STATION",
+    "STN_NO": "NE11",
+    "Latitude": 1.339190046,
+    "Longitude": 103.8708081,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "SERANGOON MRT STATION",
+    "STN_NO": "NE12",
+    "Latitude": 1.349707875,
+    "Longitude": 103.8735637,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "KOVAN MRT STATION",
+    "STN_NO": "NE13",
+    "Latitude": 1.360179171,
+    "Longitude": 103.8850503,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "HOUGANG MRT STATION",
+    "STN_NO": "NE14",
+    "Latitude": 1.371292292,
+    "Longitude": 103.8923636,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "BUANGKOK MRT STATION",
+    "STN_NO": "NE15",
+    "Latitude": 1.382877858,
+    "Longitude": 103.8931042,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "SENGKANG MRT STATION",
+    "STN_NO": "NE16",
+    "Latitude": 1.391694626,
+    "Longitude": 103.8954664,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "PUNGGOL MRT STATION",
+    "STN_NO": "NE17",
+    "Latitude": 1.404546728,
+    "Longitude": 103.902052,
+    "COLOR": "purple"
+  },
+  {
+    "STN_NAME": "DHOBY GHAUT MRT STATION",
+    "STN_NO": "CC1",
+    "Latitude": 1.298842816,
+    "Longitude": 103.8462358,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BRAS BASAH MRT STATION",
+    "STN_NO": "CC2",
+    "Latitude": 1.296861687,
+    "Longitude": 103.8506629,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "ESPLANADE MRT STATION",
+    "STN_NO": "CC3",
+    "Latitude": 1.293321608,
+    "Longitude": 103.8554985,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "PROMENADE MRT STATION",
+    "STN_NO": "CC4",
+    "Latitude": 1.293218051,
+    "Longitude": 103.8609921,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "NICOLL HIGHWAY MRT STATION",
+    "STN_NO": "CC5",
+    "Latitude": 1.299766835,
+    "Longitude": 103.8636292,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "STADIUM MRT STATION",
+    "STN_NO": "CC6",
+    "Latitude": 1.30284063,
+    "Longitude": 103.8753395,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "MOUNTBATTEN MRT STATION",
+    "STN_NO": "CC7",
+    "Latitude": 1.306201905,
+    "Longitude": 103.8825153,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "DAKOTA MRT STATION",
+    "STN_NO": "CC8",
+    "Latitude": 1.30838264,
+    "Longitude": 103.888648,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "PAYA LEBAR MRT STATION",
+    "STN_NO": "CC9",
+    "Latitude": 1.317430268,
+    "Longitude": 103.8921633,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "MACPHERSON MRT STATION",
+    "STN_NO": "CC10",
+    "Latitude": 1.326345372,
+    "Longitude": 103.8902718,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "TAI SENG MRT STATION",
+    "STN_NO": "CC11",
+    "Latitude": 1.335433322,
+    "Longitude": 103.88818,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BARTLEY MRT STATION",
+    "STN_NO": "CC12",
+    "Latitude": 1.342828338,
+    "Longitude": 103.8797462,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "SERANGOON MRT STATION",
+    "STN_NO": "CC13",
+    "Latitude": 1.350595256,
+    "Longitude": 103.8723572,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "LORONG CHUAN MRT STATION",
+    "STN_NO": "CC14",
+    "Latitude": 1.351612171,
+    "Longitude": 103.8641434,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BISHAN MRT STATION",
+    "STN_NO": "CC15",
+    "Latitude": 1.35130868,
+    "Longitude": 103.84915,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "MARYMOUNT MRT STATION",
+    "STN_NO": "CC16",
+    "Latitude": 1.348707263,
+    "Longitude": 103.8394214,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "CALDECOTT MRT STATION",
+    "STN_NO": "CC17",
+    "Latitude": 1.337674508,
+    "Longitude": 103.8395281,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BUKIT BROWN MRT STATION",
+    "STN_NO": "CC18",
+    "Latitude": 1.333728882,
+    "Longitude": 103.8306903,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BOTANIC GARDENS MRT STATION",
+    "STN_NO": "CC19",
+    "Latitude": 1.322110193,
+    "Longitude": 103.8149876,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "FARRER ROAD MRT STATION",
+    "STN_NO": "CC20",
+    "Latitude": 1.317510612,
+    "Longitude": 103.8075929,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "HOLLAND VILLAGE MRT STATION",
+    "STN_NO": "CC21",
+    "Latitude": 1.31183479,
+    "Longitude": 103.7962016,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BUONA VISTA MRT STATION",
+    "STN_NO": "CC22",
+    "Latitude": 1.306491669,
+    "Longitude": 103.7906645,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "ONE-NORTH MRT STATION",
+    "STN_NO": "CC23",
+    "Latitude": 1.299759879,
+    "Longitude": 103.7874693,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "KENT RIDGE MRT STATION",
+    "STN_NO": "CC24",
+    "Latitude": 1.293462633,
+    "Longitude": 103.7846438,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "HAW PAR VILLA MRT STATION",
+    "STN_NO": "CC25",
+    "Latitude": 1.282542157,
+    "Longitude": 103.7818234,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "PASIR PANJANG MRT STATION",
+    "STN_NO": "CC26",
+    "Latitude": 1.276213523,
+    "Longitude": 103.7913607,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "LABRADOR PARK MRT STATION",
+    "STN_NO": "CC27",
+    "Latitude": 1.272332732,
+    "Longitude": 103.8029471,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "TELOK BLANGAH MRT STATION",
+    "STN_NO": "CC28",
+    "Latitude": 1.270753211,
+    "Longitude": 103.8097544,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "HARBOURFRONT MRT STATION",
+    "STN_NO": "CC29",
+    "Latitude": 1.26547264,
+    "Longitude": 103.821446,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BAYFRONT MRT STATION",
+    "STN_NO": "CE1",
+    "Latitude": 1.281873788,
+    "Longitude": 103.8590733,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "MARINA BAY MRT STATION",
+    "STN_NO": "CE2",
+    "Latitude": 1.276150637,
+    "Longitude": 103.8550886,
+    "COLOR": "yellow"
+  },
+  {
+    "STN_NAME": "BUKIT PANJANG MRT STATION",
+    "STN_NO": "DT1",
+    "Latitude": 1.379002117,
+    "Longitude": 103.7615559,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "CASHEW MRT STATION",
+    "STN_NO": "DT2",
+    "Latitude": 1.369369831,
+    "Longitude": 103.764714,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "HILLVIEW MRT STATION",
+    "STN_NO": "DT3",
+    "Latitude": 1.362344869,
+    "Longitude": 103.7674369,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BEAUTY WORLD MRT STATION",
+    "STN_NO": "DT5",
+    "Latitude": 1.341223176,
+    "Longitude": 103.77581,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "KING ALBERT PARK MRT STATION",
+    "STN_NO": "DT6",
+    "Latitude": 1.335665121,
+    "Longitude": 103.7838201,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "SIXTH AVENUE MRT STATION",
+    "STN_NO": "DT7",
+    "Latitude": 1.330786387,
+    "Longitude": 103.7972561,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "TAN KAH KEE MRT STATION",
+    "STN_NO": "DT8",
+    "Latitude": 1.325883209,
+    "Longitude": 103.8073292,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BOTANIC GARDENS MRT STATION",
+    "STN_NO": "DT9",
+    "Latitude": 1.322423979,
+    "Longitude": 103.8161362,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "STEVENS MRT STATION",
+    "STN_NO": "DT10",
+    "Latitude": 1.320065557,
+    "Longitude": 103.8260263,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "NEWTON MRT STATION",
+    "STN_NO": "DT11",
+    "Latitude": 1.313607102,
+    "Longitude": 103.8378098,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "LITTLE INDIA MRT STATION",
+    "STN_NO": "DT12",
+    "Latitude": 1.303916484,
+    "Longitude": 103.8524167,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "ROCHOR MRT STATION",
+    "STN_NO": "DT13",
+    "Latitude": 1.306800025,
+    "Longitude": 103.8496427,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BUGIS MRT STATION",
+    "STN_NO": "DT14",
+    "Latitude": 1.299550746,
+    "Longitude": 103.8568623,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "PROMENADE MRT STATION",
+    "STN_NO": "DT15",
+    "Latitude": 1.292891552,
+    "Longitude": 103.860846,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BAYFRONT MRT STATION",
+    "STN_NO": "DT16",
+    "Latitude": 1.281873788,
+    "Longitude": 103.8590733,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "DOWNTOWN MRT STATION",
+    "STN_NO": "DT17",
+    "Latitude": 1.27944619,
+    "Longitude": 103.8528356,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "TELOK AYER MRT STATION",
+    "STN_NO": "DT18",
+    "Latitude": 1.282289536,
+    "Longitude": 103.8482991,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "CHINATOWN MRT STATION",
+    "STN_NO": "DT19",
+    "Latitude": 1.284748969,
+    "Longitude": 103.8444484,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "FORT CANNING MRT STATION",
+    "STN_NO": "DT20",
+    "Latitude": 1.292478928,
+    "Longitude": 103.8443255,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BENCOOLEN MRT STATION",
+    "STN_NO": "DT21",
+    "Latitude": 1.29886427,
+    "Longitude": 103.8503799,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "JALAN BESAR MRT STATION",
+    "STN_NO": "DT22",
+    "Latitude": 1.305403642,
+    "Longitude": 103.8554713,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BENDEMEER MRT STATION",
+    "STN_NO": "DT23",
+    "Latitude": 1.313672233,
+    "Longitude": 103.8629702,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "GEYLANG BAHRU MRT STATION",
+    "STN_NO": "DT24",
+    "Latitude": 1.321505838,
+    "Longitude": 103.8718904,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "MATTAR MRT STATION",
+    "STN_NO": "DT25",
+    "Latitude": 1.326876715,
+    "Longitude": 103.8832341,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "MACPHERSON MRT STATION",
+    "STN_NO": "DT26",
+    "Latitude": 1.326076883,
+    "Longitude": 103.8893356,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "UBI MRT STATION",
+    "STN_NO": "DT27",
+    "Latitude": 1.329956826,
+    "Longitude": 103.8992348,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "KAKI BUKIT MRT STATION",
+    "STN_NO": "DT28",
+    "Latitude": 1.334967302,
+    "Longitude": 103.9084393,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BEDOK NORTH MRT STATION",
+    "STN_NO": "DT29",
+    "Latitude": 1.334742117,
+    "Longitude": 103.9179554,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "BEDOK RESERVOIR MRT STATION",
+    "STN_NO": "DT30",
+    "Latitude": 1.33660783,
+    "Longitude": 103.9322077,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "TAMPINES WEST MRT STATION",
+    "STN_NO": "DT31",
+    "Latitude": 1.345515305,
+    "Longitude": 103.938408,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "TAMPINES MRT STATION",
+    "STN_NO": "DT32",
+    "Latitude": 1.355077429,
+    "Longitude": 103.9430298,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "TAMPINES EAST MRT STATION",
+    "STN_NO": "DT33",
+    "Latitude": 1.356191483,
+    "Longitude": 103.9546005,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "UPPER CHANGI MRT STATION",
+    "STN_NO": "DT34",
+    "Latitude": 1.341737484,
+    "Longitude": 103.9614367,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "EXPO MRT STATION",
+    "STN_NO": "DT35",
+    "Latitude": 1.335382137,
+    "Longitude": 103.9623407,
+    "COLOR": "blue"
+  },
+  {
+    "STN_NAME": "CHOA CHU KANG LRT STATION",
+    "STN_NO": "BP1",
+    "Latitude": 1.38483636,
+    "Longitude": 103.7445797,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SOUTH VIEW LRT STATION",
+    "STN_NO": "BP2",
+    "Latitude": 1.380298287,
+    "Longitude": 103.7453173,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "KEAT HONG LRT STATION",
+    "STN_NO": "BP3",
+    "Latitude": 1.378602766,
+    "Longitude": 103.7490799,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "TECK WHYE LRT STATION",
+    "STN_NO": "BP4",
+    "Latitude": 1.376684679,
+    "Longitude": 103.7537352,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "PHOENIX LRT STATION",
+    "STN_NO": "BP5",
+    "Latitude": 1.378618844,
+    "Longitude": 103.7580559,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "BUKIT PANJANG LRT STATION",
+    "STN_NO": "BP6",
+    "Latitude": 1.377909898,
+    "Longitude": 103.763034,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "PETIR LRT STATION",
+    "STN_NO": "BP7",
+    "Latitude": 1.377750334,
+    "Longitude": 103.7666882,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "PENDING LRT STATION",
+    "STN_NO": "BP8",
+    "Latitude": 1.376142883,
+    "Longitude": 103.7712881,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "BANGKIT LRT STATION",
+    "STN_NO": "BP9",
+    "Latitude": 1.380017897,
+    "Longitude": 103.7726667,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "FAJAR LRT STATION",
+    "STN_NO": "BP10",
+    "Latitude": 1.384520796,
+    "Longitude": 103.7708268,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SEGAR LRT STATION",
+    "STN_NO": "BP11",
+    "Latitude": 1.387772131,
+    "Longitude": 103.7696171,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "JELAPANG LRT STATION",
+    "STN_NO": "BP12",
+    "Latitude": 1.386703025,
+    "Longitude": 103.7645235,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SENJA LRT STATION",
+    "STN_NO": "BP13",
+    "Latitude": 1.382692296,
+    "Longitude": 103.7623879,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SENGKANG LRT STATION",
+    "STN_NO": "STC",
+    "Latitude": 1.391609364,
+    "Longitude": 103.8954243,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "COMPASSVALE LRT STATION",
+    "STN_NO": "SE1",
+    "Latitude": 1.394493046,
+    "Longitude": 103.9004726,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "RUMBIA LRT STATION",
+    "STN_NO": "SE2",
+    "Latitude": 1.391468497,
+    "Longitude": 103.9059522,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "BAKAU LRT STATION",
+    "STN_NO": "SE3",
+    "Latitude": 1.388092704,
+    "Longitude": 103.9054179,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "KANGKAR LRT STATION",
+    "STN_NO": "SE4",
+    "Latitude": 1.383978902,
+    "Longitude": 103.9021539,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "RANGGUNG LRT STATION",
+    "STN_NO": "SE5",
+    "Latitude": 1.384233561,
+    "Longitude": 103.897176,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "CHENG LIM LRT STATION",
+    "STN_NO": "SW1",
+    "Latitude": 1.396277631,
+    "Longitude": 103.8937792,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "FARMWAY LRT STATION",
+    "STN_NO": "SW2",
+    "Latitude": 1.397170196,
+    "Longitude": 103.8892882,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "KUPANG LRT STATION",
+    "STN_NO": "SW3",
+    "Latitude": 1.398212828,
+    "Longitude": 103.881242,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "THANGGAM LRT STATION",
+    "STN_NO": "SW4",
+    "Latitude": 1.397318155,
+    "Longitude": 103.8756226,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "FERNVALE LRT STATION",
+    "STN_NO": "SW5",
+    "Latitude": 1.391885888,
+    "Longitude": 103.8762959,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "LAYAR LRT STATION",
+    "STN_NO": "SW6",
+    "Latitude": 1.392079839,
+    "Longitude": 103.8800158,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "TONGKANG LRT STATION",
+    "STN_NO": "SW7",
+    "Latitude": 1.389347953,
+    "Longitude": 103.8858287,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "RENJONG LRT STATION",
+    "STN_NO": "SW8",
+    "Latitude": 1.386723922,
+    "Longitude": 103.8905227,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "PUNGGOL LRT STATION",
+    "STN_NO": "PTC",
+    "Latitude": 1.405194701,
+    "Longitude": 103.9023911,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "COVE LRT STATION",
+    "STN_NO": "PE1",
+    "Latitude": 1.399281985,
+    "Longitude": 103.9059403,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "MERIDIAN LRT STATION",
+    "STN_NO": "PE2",
+    "Latitude": 1.396912053,
+    "Longitude": 103.9089277,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "CORAL EDGE LRT STATION",
+    "STN_NO": "PE3",
+    "Latitude": 1.393909226,
+    "Longitude": 103.9125574,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "RIVIERA LRT STATION",
+    "STN_NO": "PE4",
+    "Latitude": 1.394524496,
+    "Longitude": 103.9161415,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "KADALOOR LRT STATION",
+    "STN_NO": "PE5",
+    "Latitude": 1.399584853,
+    "Longitude": 103.9164619,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "OASIS LRT STATION",
+    "STN_NO": "PE6",
+    "Latitude": 1.402286677,
+    "Longitude": 103.9127036,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "DAMAI LRT STATION",
+    "STN_NO": "PE7",
+    "Latitude": 1.405234836,
+    "Longitude": 103.9085809,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SAM KEE LRT STATION",
+    "STN_NO": "PW1",
+    "Latitude": 1.409612685,
+    "Longitude": 103.9048099,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "TECK LEE LRT STATION",
+    "STN_NO": "PW2",
+    "Latitude": 1.412770894,
+    "Longitude": 103.9065554,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "PUNGGOL POINT LRT STATION",
+    "STN_NO": "PW3",
+    "Latitude": 1.41684852,
+    "Longitude": 103.9066284,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SAMUDERA LRT STATION",
+    "STN_NO": "PW4",
+    "Latitude": 1.415901719,
+    "Longitude": 103.9021353,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "NIBONG LRT STATION",
+    "STN_NO": "PW5",
+    "Latitude": 1.411870458,
+    "Longitude": 103.9002935,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SUMANG LRT STATION",
+    "STN_NO": "PW6",
+    "Latitude": 1.408452426,
+    "Longitude": 103.8985387,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "SOO TECK LRT STATION",
+    "STN_NO": "PW7",
+    "Latitude": 1.405088585,
+    "Longitude": 103.8971904,
+    "COLOR": "grey"
+  },
+  {
+    "STN_NAME": "WOODLANDS NORTH MRT STATION",
+    "STN_NO": "TE1",
+    "Latitude": 1.4482,
+    "Longitude": 103.7851,
+    "COLOR": "brown"
+  },
+  {
+    "STN_NAME": "WOODLANDS MRT STATION",
+    "STN_NO": "TE2",
+    "Latitude": 1.436066981,
+    "Longitude": 103.7879451,
+    "COLOR": "brown"
+  },
+  {
+    "STN_NAME": "WOODLANDS SOUTH MRT STATION",
+    "STN_NO": "TE3",
+    "X": 23607.8309,
+    "Y": 45444.7113,
+    "COLOR": "brown"
+  }
+]

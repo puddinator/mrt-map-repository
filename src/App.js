@@ -4,11 +4,16 @@ import {
   GoogleMap,
   useLoadScript,
   MarkerF,
-  InfoWindows,
+  // InfoWindows,
 } from "@react-google-maps/api";
-import { formatRelative } from "date-fns";
+// import { formatRelative } from "date-fns";
+import { Dialog } from "@reach/dialog";
+import "@reach/dialog/styles.css";
 
+import mrtData from "./resources/mrtsg.json";
 import Header from "./Header";
+import StationMarkers from "./StationMarkers";
+import ModalContent from "./ModalContent";
 import mapStyles from "./mapStyles";
 import userIcon from "./resources/user.png";
 
@@ -24,13 +29,11 @@ const options = {
   styles: mapStyles,
 };
 
-const onLoad = (marker) => {
-  console.log("marker: ", marker);
-};
-
 function App() {
   const [userPositionLatitude, setUserPositionLatitude] = useState(0);
   const [userPositionLongitude, setUserPositionLongitude] = useState(0);
+  const [showModal, setShowModal] = useState(false);
+  const [selectedStation, setSelectedStation] = useState(null);
 
   const { isLoaded, loadError } = useLoadScript({
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY,
@@ -42,9 +45,6 @@ function App() {
       navigator.geolocation.watchPosition((position) => {
         setUserPositionLatitude(position.coords.latitude);
         setUserPositionLongitude(position.coords.longitude);
-        console.log("Latitude is :", userPositionLatitude);
-        console.log("Longitude is :", userPositionLongitude);
-        console.log("Accuracy is:", position.coords.accuracy);
       });
     }
   } else return "Loading Maps";
@@ -59,7 +59,6 @@ function App() {
         options={options}
       >
         <MarkerF
-          onLoad={onLoad}
           key={"userMarker"}
           position={{
             lat: userPositionLatitude,
@@ -73,7 +72,35 @@ function App() {
             },
           }}
         />
+
+        {mrtData.map((mrtStation) => (
+          <StationMarkers
+            mrtStation={mrtStation}
+            key={mrtStation.STN_NO}
+            setShowModal={setShowModal}
+            setSelectedStation={setSelectedStation}
+          />
+        ))}
       </GoogleMap>
+
+      {/* Modal */}
+      <Dialog
+        isOpen={showModal}
+        onDismiss={() => {
+          setShowModal(false);
+        }}
+        aria-label="Info about MRT Station"
+      >
+        <button
+          className="close-button"
+          onClick={() => {
+            setShowModal(false);
+          }}
+        >
+          <span aria-hidden>×</span>
+        </button>
+        <ModalContent station={selectedStation} />
+      </Dialog>
     </div>
   );
 }
