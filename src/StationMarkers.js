@@ -13,6 +13,7 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
   if (mrtStation.COLOR === "blue") {
     return (
       <MarkerF
+        // label={mrtStation.STN_NAME}
         key={mrtStation.STN_NO}
         position={{
           lat: parseFloat(mrtStation.Latitude),
@@ -24,10 +25,7 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         }}
         icon={{
           url: blue,
-          scaledSize: {
-            width: 10,
-            height: 10,
-          },
+          scaledSize: new window.google.maps.Size(10, 10),
         }}
       />
     );
