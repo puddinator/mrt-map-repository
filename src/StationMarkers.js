@@ -25,7 +25,7 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         }}
         icon={{
           url: blue,
-          scaledSize: new window.google.maps.Size(10, 10),
+          scaledSize: new window.google.maps.Size(12, 12),
         }}
       />
     );
@@ -44,8 +44,8 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         icon={{
           url: brown,
           scaledSize: {
-            width: 10,
-            height: 10,
+            width: 12,
+            height: 12,
           },
         }}
       />
@@ -65,8 +65,8 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         icon={{
           url: green,
           scaledSize: {
-            width: 10,
-            height: 10,
+            width: 12,
+            height: 12,
           },
         }}
       />
@@ -86,8 +86,8 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         icon={{
           url: purple,
           scaledSize: {
-            width: 10,
-            height: 10,
+            width: 12,
+            height: 12,
           },
         }}
       />
@@ -107,8 +107,8 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         icon={{
           url: red,
           scaledSize: {
-            width: 10,
-            height: 10,
+            width: 12,
+            height: 12,
           },
         }}
       />
@@ -128,8 +128,8 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         icon={{
           url: yellow,
           scaledSize: {
-            width: 10,
-            height: 10,
+            width: 12,
+            height: 12,
           },
         }}
       />
@@ -149,8 +149,8 @@ function StationMarkers({ mrtStation, setShowModal, setSelectedStation }) {
         icon={{
           url: grey,
           scaledSize: {
-            width: 7,
-            height: 7,
+            width: 9,
+            height: 9,
           },
         }}
       />
