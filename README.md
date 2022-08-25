@@ -1,6 +1,7 @@
 # mrt-map-repository
 
-Website for online crowdsourced repository of train station layouts to help people with disabilities navigate unfamiliar stations. 
+Website for online crowdsourced repository of train station layouts to help people with disabilities navigate unfamiliar stations. Try adding an image! 
+I've added images to about a third of the stations: try the popular circle line ones
 
 Frontend built with React
 
