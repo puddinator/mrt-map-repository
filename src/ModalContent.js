@@ -18,7 +18,7 @@ async function getapi(url, setStationImages) {
 function ModalContent({ station }) {
   const [stationImages, setStationImages] = useState([]);
   const [showModal, setShowModal] = useState(false);
-  const url = `https://mrt-map-repository-backend.herokuapp.com/images/${station.STN_NO}`;
+  const url = `https://mrt-map-repository-backend.vercel.app/images/${station.STN_NO}`;
 
   useEffect(() => {
     getapi(url, setStationImages);
@@ -26,27 +26,34 @@ function ModalContent({ station }) {
   }, []);
 
   return (
-    <div style={{ overflow: "scroll", display: "flex" }}>
+    <div
+      style={{
+        overflow: "scroll",
+        display: "flex",
+        flexDirection: "column",
+        gap: 5,
+      }}
+    >
       <div
         style={{ display: "flex", flexDirection: "column", marginRight: 20 }}
       >
         <h1>{station.STN_NAME}</h1>
         <h3 style={{ marginTop: -15 }}>{station.STN_NO}</h3>
-        <button onClick={() => setShowModal(true)}>Upload an image</button>
+        <button style={{ width: 150 }} onClick={() => setShowModal(true)}>
+          Upload an image
+        </button>
       </div>
 
       <div style={{ display: "flex", flexDirection: "column", gap: 5 }}>
         {stationImages.map((stationImage) => {
           // console.log(stationImages);
-          const imageSource = `https://mrt-map-repository-backend.herokuapp.com/${stationImage.image}`;
+          const imageSource = `https://mrt-map-repository-backend.vercel.app/${stationImage.image}`;
           return (
             <img
               key={stationImage.name}
               src={imageSource}
               alt={stationImage.name}
               crossOrigin="anonymous"
-              height="200"
-              width="auto"
             />
           );
         })}

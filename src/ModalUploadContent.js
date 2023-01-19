@@ -1,7 +1,7 @@
 import axios from "axios";
 
 function submitForm(station) {
-  const url = "https://mrt-map-repository-backend.herokuapp.com/images";
+  const url = "https://mrt-map-repository-backend.vercel.app/images";
   const form = document.getElementById("form");
   const payload = new FormData(form);
   payload.append("station", station.STN_NO);
